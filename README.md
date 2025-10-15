@@ -95,7 +95,7 @@ Example use cases:
 - **[Smart metering & anomaly detection](https://www.microchip.com/en-us/tools-resources/reference-designs/smart-meter-load-disaggregation-using-a-machine-learning-model-demo-app)** – predicting faults or abnormal electrical behavior.  
 
 ---
-7. Wearables & Activity Monitoring
+### 7. Wearables & Activity Monitoring
 
 This category includes motion, posture, gesture, and human-activity–based Edge AI applications. These solutions typically use IMUs, accelerometers, or multimodal sensing to enable intelligent fitness, safety, and health monitoring on-device.
 
