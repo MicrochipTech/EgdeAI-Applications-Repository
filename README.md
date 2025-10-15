@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="Images/edge ai banner.png" alt="Microchip Edge AI" width="70%">
+</p>
+
+
 # Edge AI Applications Repository
 
 This repository serves as the primary hub for Microchip’s Edge AI application portfolio. It highlights how artificial intelligence and machine learning can be efficiently deployed on resource-constrained MCUs, MPUs, and FPGAs, spanning real-world use cases across vision, audio, predictive maintenance, human–machine interfaces (HMI), and electrical systems.
