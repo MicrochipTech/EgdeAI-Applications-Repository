@@ -105,11 +105,10 @@ The applications in this repository are designed to run across Microchip’s bro
 
 This repository supports multiple build flows, including:  
 
-- **MPLAB X** with XC compilers for MCUs.
-- **MPLAB Machine learning Development Suite** for machine learning model development
-- **Harmony Configurator (MHC)** for driver and middleware setup.  
-- **Bare-metal / CMake templates** for lightweight embedded projects.  
-- **Libero + VectorBlox SDK** for FPGA-based AI acceleration.  
+- **[MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)** with XC compilers for MCUs.
+- **[MPLAB Machine learning Development Suite](https://www.microchip.com/en-us/tools-resources/develop/mplab-machine-learning-development-suite)** for machine learning model development
+- **[Harmony Configurator (MHC)](https://www.microchip.com/en-us/tools-resources/configure/mplab-harmony)** for driver and middleware setup.  
+- **[VectorBlox SDK](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/vectorblox)** for FPGA-based AI acceleration.  
 
 
 ---
