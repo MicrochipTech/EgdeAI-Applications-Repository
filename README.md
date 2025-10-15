@@ -9,6 +9,10 @@ The objectives of this repository are to:
 - Showcase cross-platform support across dsPIC®, PIC32, SAM MPUs, and PolarFire® SoCs
 - Act as a central knowledge base for development teams, customers, and ecosystem partners building Edge AI solutions
 
+
+For more information on Microchip’s Edge AI technology and ecosystem, visit:
+**[Microchip Edge AI](https://www.microchip.com/en-us/solutions/technologies/machine-learning)**
+
 ---
 
 ## 🔹 Application Categories
