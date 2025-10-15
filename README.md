@@ -108,8 +108,8 @@ This repository supports multiple build flows, including:
 - **[MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)** with XC compilers for MCUs.
 - **[MPLAB Machine learning Development Suite](https://www.microchip.com/en-us/tools-resources/develop/mplab-machine-learning-development-suite)** for machine learning model development
 - **[Harmony Configurator (MHC)](https://www.microchip.com/en-us/tools-resources/configure/mplab-harmony)** for driver and middleware setup.  
-- **[VectorBlox SDK](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/vectorblox)** for FPGA-based AI acceleration.  
-
+- **[VectorBlox SDK](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/vectorblox)** for FPGA-based AI acceleration.
+- **[TensorFlow to MPLAB Harmony V3 Model Converter](https://github.com/MicrochipTech/tf2mplabh3) - enables you to convert TensorFlow models to C code, ready for seamless integration into your MPLAB® Harmony v3 embedded projects.
 
 ---
 
