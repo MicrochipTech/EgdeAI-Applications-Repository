@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Images/edge ai banner.png" alt="Microchip Edge AI" width="70%">
+  <img src="Images/edge ai banner.png" alt="Microchip Edge AI" width="100%">
 </p>
 
 
