@@ -112,26 +112,13 @@ This repository supports multiple build flows, including:
 
 ---
 
-## 📊 ML Assets & Pipelines
-
-Reusable ML assets, training/export utilities, and evaluation scripts will be centralized under:  
-📂 `ml/`
-
-Contents include:
-- **Model cards** – standardized documentation for each model.  
-- **Quantized binaries** – INT8, FP16, or custom formats optimized for deployment.  
-- **Evaluation scripts** – measuring accuracy, latency, memory footprint, and power.  
-- **Pipelines** – training/export flows using TensorFlow Lite Micro, TVM, ONNX2C, etc.  
-
----
 
 ## 🔗 VectorBlox Reference
 
-For FPGA-based acceleration, we will reference the official **[Microchip-VectorBlox GitHub repository](https://github.com/Microchip-Vectorblox)**.  
-
-This ensures continuity and avoids duplication.  
-Optionally, VectorBlox may be included as a **submodule** in:  
-📂 `vendors/vectorblox/`
+Edge AI deployments that require FPGA acceleration can leverage the
+**[Microchip-VectorBlox GitHub repository](https://github.com/Microchip-Vectorblox)**
+.
+This repository provides toolflows, examples, and runtime support for ML inference on PolarFire® SoC and other FPGA-based platforms.
 
 ---
 
