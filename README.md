@@ -155,5 +155,8 @@ For bug reports, feature requests, or questions, please use the GitHub Issues se
 
 ## 📜 License
 
+All content in this repository is provided under Microchip’s licensing terms.  
+Refer to the accompanying **LICENSE** file for full legal details and usage permissions.
+
 
 
