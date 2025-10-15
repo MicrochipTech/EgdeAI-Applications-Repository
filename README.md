@@ -45,7 +45,7 @@ These applications often use **vibration, current, and acoustic signals** as inp
 
 Example use cases:
 - **[Fan Condition Monitoring](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – identifying early signs of mechanical stress.  
-- **Motor health monitoring** – detecting imbalance, misalignment, or efficiency loss.  
+- **[Motor Control AI/ML Predictive Maintenance Demonstration Application}(https://www.microchip.com/en-us/tools-resources/reference-designs/motor-control-ai-ml-predictive-maintenance-demonstration-application-1)** – detecting imbalance, misalignment, or efficiency loss.  
 - **Compressor condition monitoring** – catching leaks or pressure drops before failure.  
 
 
@@ -74,8 +74,7 @@ This category includes **safety, efficiency, and grid-monitoring applications**.
 
 Example use cases:
 - **Arc fault detection** – identifying hazardous sparks in power lines or appliances.  
-- **Load monitoring** – tracking device-level consumption for energy efficiency.  
-- **Smart metering & anomaly detection** – predicting faults or abnormal electrical behavior.  
+- **{Smart metering & anomaly detection](https://www.microchip.com/en-us/tools-resources/reference-designs/smart-meter-load-disaggregation-using-a-machine-learning-model-demo-app)** – predicting faults or abnormal electrical behavior.  
 
 ---
 7. Wearables & Activity Monitoring
