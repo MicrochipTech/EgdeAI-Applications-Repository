@@ -6,8 +6,11 @@
 # Edge AI Applications
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Platforms](https://img.shields.io/badge/platforms-MCU%20%7C%20MPU%20%7C%20FPGA-red)
+![Platforms](https://img.shields.io/badge/platforms-MCU%20%7C%20MPU%20%7C%20FPGA%20%7C%20dsPIC-red)
+![Domain](https://img.shields.io/badge/Edge%20AI-%20Applications-orange)
+![ML](https://img.shields.io/badge/Machine%20Learning-Embedded-yellow)
 ![License](https://img.shields.io/badge/license-Microchip-blue)
+
 
 # Edge AI Applications Repository
 
