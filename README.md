@@ -89,14 +89,12 @@ Example use cases:
 ---
 ## 🖥 Supported Platforms
 
-Applications in this repository are optimized for a range of Microchip devices:  
+The applications in this repository are designed to run across Microchip’s broad compute portfolio, covering:
 
-- **dsPIC33A** – Compact DSP-enabled MCUs for real-time signal processing.  
-- **PIC32CX** – High-performance MCUs with rich peripherals for connected devices.  
-- **SAMA7** – MPU with Arm® Cortex®-A7 and NEON for Linux-based AI.  
-- **SAM9X75** – MPU family optimized for low-power embedded Linux.  
-- **PolarFire SoC** – FPGA + RISC-V SoC for high-performance, low-power AI acceleration.  
-
+- **[MCUs](https://www.microchip.com/en-us/products/microcontrollers)** – Ultra-low-power and real-time devices suited for always-on sensing and lightweight ML inference
+- **[MPUs](https://www.microchip.com/en-us/products/microprocessors)** – Application-class processors with Linux support for higher-compute AI workloads
+- **[FPGAs and SoC FPGAs](https://www.microchip.com/en-us/products/fpgas-and-plds)** – Configurable logic and RISC-V–based platforms for accelerated AI processing
+- **[dsPIC-DSC](https://www.microchip.com/en-us/products/microcontrollers/dspic-dscs)**– Devices optimized for signal processing and deterministic control workloads
 ---
 
 ## 🛠 Toolchains & Build Support
