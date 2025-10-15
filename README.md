@@ -1,28 +1,30 @@
 # Edge AI Applications Repository
 
-This repository is the central landing page for **Microchip’s Edge AI application projects**.  
-It showcases how AI and ML can be deployed efficiently on **resource-constrained MCUs, MPUs, and FPGAs**, covering a wide range of real-world use cases across **vision, audio, predictive maintenance, HMI, and electrical domains**.  
+This repository serves as the primary hub for Microchip’s Edge AI application portfolio. It highlights how artificial intelligence and machine learning can be efficiently deployed on resource-constrained MCUs, MPUs, and FPGAs, spanning real-world use cases across vision, audio, predictive maintenance, human–machine interfaces (HMI), and electrical systems.
 
-The goal of this repo is to:
-- Provide **reference applications** that engineers can reuse and adapt.  
-- Demonstrate **best practices** for deploying models on Microchip hardware.  
-- Highlight **cross-platform capabilities** (dsPIC, PIC32, SAM MPU, PolarFire SoC).  
-- Serve as a **knowledge base** for teams, customers, and partners building Edge AI solutions.
+The objectives of this repository are to:
+
+- Provide reusable reference applications that developers can adapt for their own designs
+- Demonstrate best practices for deploying AI/ML models on Microchip platforms
+- Showcase cross-platform support across dsPIC®, PIC32, SAM MPUs, and PolarFire® SoCs
+- Act as a central knowledge base for development teams, customers, and ecosystem partners building Edge AI solutions
 
 ---
 
 ## 🔹 Application Categories
 
 ### 1. Vision Applications
-Vision is one of the fastest-growing areas in embedded AI. These applications use cameras or image sensors to enable devices to see and interpret their environment.  
+Vision is one of the fastest-growing areas in EdgeAI. These applications use cameras or image sensors to enable devices to see and interpret their environment.  
 Typical challenges include **low-power image capture**, **real-time inference**, and **memory-efficient neural networks**.
 
 Example use cases:
-- **Object detection** – identifying objects in a scene (e.g., detecting tools in a factory).  
-- **Person presence / people counting** – enabling smart surveillance or occupancy detection.  
-- **Anomaly detection** – spotting irregular patterns in video streams for safety monitoring.  
+- **Smart Home**
+- **Parking lot**
+- face recognition
+- Person detection
+- Object recognition
+- License Plate Detection
 
-📂 Directory: `applications/vision/`
 
 ---
 
@@ -31,12 +33,9 @@ Audio-based AI enables devices to listen, understand, and react to sound inputs.
 The main challenges are achieving **always-on low-power listening** and **robustness across noisy environments**.
 
 Example use cases:
-- **Keyword spotting (KWS)** – detecting short commands like “Hey Microchip” or “Start”.  
-- **Voice Activity Detection (VAD)** – distinguishing speech from background noise.  
-- **Sound classification** – recognizing events such as glass breaking, alarms, or machinery noise.  
-- **Beamforming / multi-mic arrays** – improving signal quality and directionality.  
+- **[Keyword spotting (KWS)](https://developerhelp.microchip.com/xwiki/bin/view/applications/machine-learning/edge-impulse-keyword-spotting/)** – detecting short commands like “Hey Microchip” or “Start”.  
+- **[Sound recognition](https://developerhelp.microchip.com/xwiki/bin/view/applications/machine-learning/mlsound/)** – recognizing events such as glass breaking, alarms, or machinery noise.  
 
-📂 Directory: `applications/audio/`
 
 ---
 
@@ -45,11 +44,10 @@ Predictive Maintenance (PdM) brings intelligence to industrial and IoT systems b
 These applications often use **vibration, current, and acoustic signals** as inputs.
 
 Example use cases:
-- **Bearing wear detection** – identifying early signs of mechanical stress.  
+- **[Fan Condition Monitoring](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – identifying early signs of mechanical stress.  
 - **Motor health monitoring** – detecting imbalance, misalignment, or efficiency loss.  
 - **Compressor condition monitoring** – catching leaks or pressure drops before failure.  
 
-📂 Directory: `applications/predictive_maintenance/`
 
 ---
 
@@ -57,15 +55,20 @@ Example use cases:
 HMI solutions enhance how users interact with devices by making interfaces more **natural, intuitive, and responsive**. AI-powered HMIs go beyond simple buttons, enabling **gesture, touchless, and multimodal interactions**.
 
 Example use cases:
-- **Gesture recognition** – enabling touchless controls in consumer electronics or automotive.  
-- **Voice UI integration** – combining wake-words with command-and-control systems.  
-- **Multimodal HMI** – fusing gesture + voice + context for richer interactions.  
-
-📂 Directory: `applications/hmi/`
+- **[Gesture recognition](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – enabling gesture recognition in consumer electronics or automotive.  
+- **[Gesture recognition using dsPIC](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – gesture recognition on dsPIC device
 
 ---
+### 5. Gas Sensing Applications
 
-### 5. Electrical Applications
+Gas and air-quality sensing is an emerging area in Edge AI where sensor fusion and machine learning enable devices to detect, classify, and respond to chemical signatures in real time. These applications can run on low-power MCUs and are relevant across industrial, consumer, and environmental domains.
+
+Example use cases:
+
+- **[Coffee bean classification](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – distinguishing brands, roast level, freshness, or origin
+---
+
+### 6. Electrical Applications
 Electrical signal monitoring is critical in industrial and residential environments. AI enhances traditional electrical sensing by detecting subtle patterns and anomalies that rule-based systems may miss.  
 This category includes **safety, efficiency, and grid-monitoring applications**.
 
@@ -74,10 +77,17 @@ Example use cases:
 - **Load monitoring** – tracking device-level consumption for energy efficiency.  
 - **Smart metering & anomaly detection** – predicting faults or abnormal electrical behavior.  
 
-📂 Directory: `applications/electrical/`
+---
+7. Wearables & Activity Monitoring
+
+This category includes motion, posture, gesture, and human-activity–based Edge AI applications. These solutions typically use IMUs, accelerometers, or multimodal sensing to enable intelligent fitness, safety, and health monitoring on-device.
+
+Example use cases:
+
+- **[Smart Dumbbell](https://github.com/MicrochipTech/ml-PIC33CX-BZ2-and-WBZ451-IMU-SmartBell)** – classifying reps, posture, and movement quality
+- **[Fall Detection](https://github.com/MicrochipTech/ml-PIC33CX-BZ2-and-WBZ451-IMU-SmartBell)** – detecting and alerting on human falls using embedded ML
 
 ---
-
 ## 🖥 Supported Platforms
 
 Applications in this repository are optimized for a range of Microchip devices:  
@@ -87,9 +97,6 @@ Applications in this repository are optimized for a range of Microchip devices:
 - **SAMA7** – MPU with Arm® Cortex®-A7 and NEON for Linux-based AI.  
 - **SAM9X75** – MPU family optimized for low-power embedded Linux.  
 - **PolarFire SoC** – FPGA + RISC-V SoC for high-performance, low-power AI acceleration.  
-
-Platform-specific configurations, BSPs, and build instructions will be stored in:  
-📂 `platforms/`
 
 ---
 
@@ -103,7 +110,6 @@ This repository supports multiple build flows, including:
 - **Bare-metal / CMake templates** for lightweight embedded projects.  
 - **Libero + VectorBlox SDK** for FPGA-based AI acceleration.  
 
-📂 `toolchains/`
 
 ---
 
