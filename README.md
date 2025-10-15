@@ -78,7 +78,7 @@ This category includes **safety, efficiency, and grid-monitoring applications**.
 
 Example use cases:
 - **Arc fault detection** – identifying hazardous sparks in power lines or appliances.  
-- **{Smart metering & anomaly detection](https://www.microchip.com/en-us/tools-resources/reference-designs/smart-meter-load-disaggregation-using-a-machine-learning-model-demo-app)** – predicting faults or abnormal electrical behavior.  
+- **[Smart metering & anomaly detection](https://www.microchip.com/en-us/tools-resources/reference-designs/smart-meter-load-disaggregation-using-a-machine-learning-model-demo-app)** – predicting faults or abnormal electrical behavior.  
 
 ---
 7. Wearables & Activity Monitoring
