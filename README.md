@@ -45,7 +45,7 @@ These applications often use **vibration, current, and acoustic signals** as inp
 
 Example use cases:
 - **[Fan Condition Monitoring](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – identifying early signs of mechanical stress.  
-- **[Motor Control AI/ML Predictive Maintenance Demonstration Application}(https://www.microchip.com/en-us/tools-resources/reference-designs/motor-control-ai-ml-predictive-maintenance-demonstration-application-1)** – detecting imbalance, misalignment, or efficiency loss.  
+- **[Motor Control AI/ML Predictive Maintenance Demonstration Application](https://www.microchip.com/en-us/tools-resources/reference-designs/motor-control-ai-ml-predictive-maintenance-demonstration-application-1)** – detecting imbalance, misalignment, or efficiency loss.  
 - **Compressor condition monitoring** – catching leaks or pressure drops before failure.  
 
 
