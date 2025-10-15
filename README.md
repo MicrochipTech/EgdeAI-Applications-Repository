@@ -125,8 +125,7 @@ This repository provides toolflows, examples, and runtime support for ML inferen
 
 ## 📚 Documentation
 
-General documentation and guides will be found under:  
-📂 `docs/`
+General documentation and guides will be found under: 
 
 Planned docs:
 - **Overview** of the repo  
