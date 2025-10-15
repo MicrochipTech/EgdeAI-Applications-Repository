@@ -3,6 +3,11 @@
   <img src="Images/mchpedgeaibanner.png" alt="Microchip Edge AI" width="100%">
 </p>
 
+# Edge AI Applications
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Platforms](https://img.shields.io/badge/platforms-MCU%20%7C%20MPU%20%7C%20FPGA-red)
+![License](https://img.shields.io/badge/license-Microchip-blue)
 
 # Edge AI Applications Repository
 
