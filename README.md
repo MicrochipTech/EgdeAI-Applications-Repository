@@ -2,7 +2,7 @@
 
 This repository serves as the primary hub for Microchip’s Edge AI application portfolio. It highlights how artificial intelligence and machine learning can be efficiently deployed on resource-constrained MCUs, MPUs, and FPGAs, spanning real-world use cases across vision, audio, predictive maintenance, human–machine interfaces (HMI), and electrical systems.
 
-The objectives of this repository are to:
+The objective of this repository is to:
 
 - Provide reusable reference applications that developers can adapt for their own designs
 - Demonstrate best practices for deploying AI/ML models on Microchip platforms
