@@ -97,7 +97,8 @@ Platform-specific configurations, BSPs, and build instructions will be stored in
 
 This repository supports multiple build flows, including:  
 
-- **MPLAB X** with XC compilers for MCUs.  
+- **MPLAB X** with XC compilers for MCUs.
+- **MPLAB Machine learning Development Suite** for machine learning model development
 - **Harmony Configurator (MHC)** for driver and middleware setup.  
 - **Bare-metal / CMake templates** for lightweight embedded projects.  
 - **Libero + VectorBlox SDK** for FPGA-based AI acceleration.  
