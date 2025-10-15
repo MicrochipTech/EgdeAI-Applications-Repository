@@ -158,5 +158,8 @@ For bug reports, feature requests, or questions, please use the GitHub Issues se
 All content in this repository is provided under Microchip’s licensing terms.  
 Refer to the accompanying **LICENSE** file for full legal details and usage permissions.
 
+[![Microchip Edge AI](https://img.shields.io/badge/Microchip-Edge%20AI-red)](https://www.microchip.com/en-us/solutions/technologies/machine-learning)
+
+
 
 
