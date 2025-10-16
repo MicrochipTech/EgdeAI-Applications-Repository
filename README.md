@@ -74,6 +74,7 @@ HMI solutions enhance how users interact with devices by making interfaces more 
 Example use cases:
 - **[Gesture recognition](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – enabling gesture recognition in consumer electronics or automotive.  
 - **[Gesture recognition using dsPIC](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – gesture recognition on dsPIC device
+- **[Robotic Arm](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_BLE_ML_Orientation_Demo)** -  classify the orientation of the Robotic Arm and transmit the outcomes to a MBD App.
 - **Shining Light**
 ---
 ### 5. Gas Sensing Applications
