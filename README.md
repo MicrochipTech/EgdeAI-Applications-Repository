@@ -64,7 +64,6 @@ These applications often use **vibration, current, and acoustic signals** as inp
 Example use cases:
 - **[Fan Condition Monitoring](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – identifying early signs of mechanical stress.  
 - **[Motor Control AI/ML Predictive Maintenance Demonstration Application](https://www.microchip.com/en-us/tools-resources/reference-designs/motor-control-ai-ml-predictive-maintenance-demonstration-application-1)** – detecting imbalance, misalignment, or efficiency loss.  
-- **Compressor condition monitoring** – catching leaks or pressure drops before failure.  
 
 
 ---
@@ -75,7 +74,7 @@ HMI solutions enhance how users interact with devices by making interfaces more 
 Example use cases:
 - **[Gesture recognition](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – enabling gesture recognition in consumer electronics or automotive.  
 - **[Gesture recognition using dsPIC](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – gesture recognition on dsPIC device
-
+- **Shining Light**
 ---
 ### 5. Gas Sensing Applications
 
