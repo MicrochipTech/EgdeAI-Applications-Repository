@@ -53,7 +53,7 @@ The main challenges are achieving **always-on low-power listening** and **robust
 Example use cases:
 - **[Keyword spotting (KWS)](https://developerhelp.microchip.com/xwiki/bin/view/applications/machine-learning/edge-impulse-keyword-spotting/)** – detecting short commands like “Hey Microchip” or “Start”.  
 - **[Sound recognition](https://developerhelp.microchip.com/xwiki/bin/view/applications/machine-learning/mlsound/)** – recognizing events such as glass breaking, alarms, or machinery noise.  
-
+- **[Guitar Note Identifier]()- Identifies the notes from the guitar strings
 
 ---
 
@@ -75,6 +75,7 @@ Example use cases:
 - **[Gesture recognition](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – enabling gesture recognition in consumer electronics or automotive.  
 - **[Gesture recognition using dsPIC](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – gesture recognition on dsPIC device
 - **[Robotic Arm](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_BLE_ML_Orientation_Demo)** -  classify the orientation of the Robotic Arm and transmit the outcomes to a MBD App.
+- **[Magic Wand]** - Recognises the gesture done using a magic wand
 - **Shining Light**
 ---
 ### 5. Gas Sensing Applications
