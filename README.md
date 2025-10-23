@@ -77,6 +77,7 @@ Example use cases:
 - **[Robotic Arm](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_BLE_ML_Orientation_Demo)** -  classify the orientation of the Robotic Arm and transmit the outcomes to a MBD App.
 - **[Magic Wand]** - Recognises the gesture done using a magic wand
 - **Shining Light**
+- **Golf Club**
 ---
 ### 5. Gas Sensing Applications
 
