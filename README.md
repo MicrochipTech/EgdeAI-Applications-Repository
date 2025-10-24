@@ -75,7 +75,7 @@ Example use cases:
 - **[Gesture recognition](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – enabling gesture recognition in consumer electronics or automotive.  
 - **[Gesture recognition using dsPIC](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo)** – gesture recognition on dsPIC device
 - **[Robotic Arm](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_BLE_ML_Orientation_Demo)** -  classify the orientation of the Robotic Arm and transmit the outcomes to a MBD App.
-- **[Magic Wand]** - Recognises the gesture done using a magic wand
+- **[Magic Wand](https://github.com/k-mchp/d21-wand)** - Recognises the gesture done using a magic wand
 - **Shining Light**
 - **[Golf Ace](https://github.com/nickbild/golf_ace)** - Learn to Putt like your favorite pro golfer using machine learning
 ---
