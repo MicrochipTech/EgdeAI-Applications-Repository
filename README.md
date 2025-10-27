@@ -38,7 +38,7 @@ Typical challenges include **low-power image capture**, **real-time inference**,
 Example use cases:
 - **Smart Home**
 - **Parking lot**
-- face recognition
+- **[Face Detection](https://github.com/MicrochipTech/Face-Detection-SAMA7G54)** - Real-time face detection demo running on a Microchip SAMA7G54 evaluation kit.
 - Person detection
 - Object recognition
 - License Plate Detection
@@ -78,6 +78,7 @@ Example use cases:
 - **[Magic Wand](https://github.com/k-mchp/d21-wand)** - Recognises the gesture done using a magic wand
 - **Shining Light**
 - **[Golf Ace](https://github.com/nickbild/golf_ace)** - Learn to Putt like your favorite pro golfer using machine learning
+- **[Gesture Detection (Eating Habits) SAMD21]**
 ---
 ### 5. Gas Sensing Applications
 
@@ -86,6 +87,7 @@ Gas and air-quality sensing is an emerging area in Edge AI where sensor fusion a
 Example use cases:
 
 - **[Coffee bean classification](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – distinguishing brands, roast level, freshness, or origin
+- **[E-nose Arduino Feather SAMD51]**
 ---
 
 ### 6. Electrical Applications
